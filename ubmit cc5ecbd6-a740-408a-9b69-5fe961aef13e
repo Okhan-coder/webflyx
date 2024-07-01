@@ -1,0 +1,54 @@
+[33mcommit 113845c6f3c0f5d0701fdfecda2a66441b29e8d4[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_dune[m[33m)[m
+Author: Okhan-Coder <O_khan4@u.pacific.edu>
+Date:   Sun Jun 30 22:38:47 2024 -0700
+
+    H: fixed
+
+[33mcommit 773f14cf8c6b90bda99dc0cabf035fd1842ac365[m
+Author: Okhan-Coder <O_khan4@u.pacific.edu>
+Date:   Sun Jun 30 22:24:43 2024 -0700
+
+    I: added to dune
+
+[33mcommit 6bf0714e1d11fd5dcdc6698f48c9770c6e52cc40[m[33m ([m[1;32mmain[m[33m)[m
+Author: Okhan-Coder <O_khan4@u.pacific.edu>
+Date:   Sun Jun 30 22:02:13 2024 -0700
+
+    G: the curious case of benjamin button added
+
+[33mcommit 80a339cbaa0ecb946a29139ce3c3714c3ec33b92[m
+Merge: dbfb9c6 7825f8c
+Author: Okhan-Coder <O_khan4@u.pacific.edu>
+Date:   Sun Jun 30 21:52:35 2024 -0700
+
+    F: Merge branch 'add_classics' into main
+
+[33mcommit dbfb9c6c67166aa2a331aa4112ed39400ba58981[m
+Author: Okhan-Coder <O_khan4@u.pacific.edu>
+Date:   Sun Jun 30 21:44:42 2024 -0700
+
+    E: modified
+
+[33mcommit 7825f8c615af91410d83b28dec55de78267ccdb3[m
+Author: Okhan-Coder <O_khan4@u.pacific.edu>
+Date:   Sat Jun 29 16:32:46 2024 -0700
+
+    D: added classics
+
+[33mcommit 9049a0db6a90982cdd23d536e7143005737f3352[m
+Author: Okhan-coder <O_khan4@u.pacific.edu>
+Date:   Fri Jun 28 21:44:46 2024 -0700
+
+    C: add quotes
+
+[33mcommit 5499c3bf300301175a6f66989e75177e810f9fcf[m
+Author: Okhan-coder <O_khan4@u.pacific.edu>
+Date:   Fri Jun 28 21:27:51 2024 -0700
+
+    B: add titles
+
+[33mcommit be70da1aa0ec95f869a3d63402145cea43e08398[m
+Author: Okhan-coder <O_khan4@u.pacific.edu>
+Date:   Thu Jun 27 23:00:59 2024 -0700
+
+    A: add contents.md
